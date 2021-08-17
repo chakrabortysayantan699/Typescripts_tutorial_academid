@@ -2,7 +2,7 @@
 
 # Let's do Typescript
 
-| **status**|
-|-----------|
+| **status** |
+|----------- |
 | in Progress|
 
