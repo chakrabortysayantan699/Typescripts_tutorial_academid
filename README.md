@@ -1,6 +1,6 @@
 # React_JS_For_Begginers
 
-# Let's do react 
+# Let's do Typescript
 
 | **status**|
 |-----------|
