@@ -1,6 +1,6 @@
-# React_JS_For_Begginers
+# React JS For Begginers😎
 
-# Let's do Typescript
+# Let's do Typescript🏃🏽‍♂️
 
 | **status** |
 |----------- |
