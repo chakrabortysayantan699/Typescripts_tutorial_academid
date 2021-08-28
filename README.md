@@ -1,4 +1,4 @@
-# React JS For Begginers😎
+# TypeScript For Begginers😎
 
 # Let's do Typescript🏃🏽‍♂️
 
